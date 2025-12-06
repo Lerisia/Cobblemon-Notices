@@ -37,7 +37,7 @@ H244 C196 D68
 
 ### 누리레느
 ![누리레느](https://static.wikia.nocookie.net/pokemon/images/2/27/0730.png/revision/latest?cb=20241009002514)  
-**누리레느** @돌격조끼  
+**누리레느** @구애안경  
 조심or냉정 / 6V / 급류  
 H156 B100 C252  
 아쿠아제트 / 물거품아리아 / 문포스 / 에너지볼
