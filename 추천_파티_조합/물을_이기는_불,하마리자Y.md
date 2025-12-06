@@ -16,7 +16,7 @@
 ### 메가리자몽Y
 ![와자몽](https://static.wikia.nocookie.net/pokemon/images/9/9f/0006M2.png/revision/latest?cb=20241004213150)  
 **메가리자몽Y** @리자몽나이트Y  
-조심 / V_VVVV / 맹화->가뭄  
+조심 / VZVVVV / 맹화->가뭄  
 H252 B116 C100 D4 S36  
 화염방사 / 솔라빔 / 에어슬래시 / 날개쉬기  
 
