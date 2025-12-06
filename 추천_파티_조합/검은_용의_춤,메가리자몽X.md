@@ -28,7 +28,7 @@ H4 A252 S252
 ### 폴리곤2
 ![폴리곤2](https://static.wikia.nocookie.net/pokemon/images/d/d4/0233.png/revision/latest?cb=20241005082150)  
 **폴리곤2** @진화의휘석  
-조심 / 6V / 다운로드  
+조심 / VZVVVV / 다운로드  
 H244 C196 D68  
 트라이어택 / 섀도볼 / 트릭룸 / HP회복
 
