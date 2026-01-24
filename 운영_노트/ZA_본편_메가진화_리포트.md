@@ -357,7 +357,7 @@ H252를 준 물리내구는 9.2만, 특수내구도 6만이나 됩니다.
 
 잘 좀 써보고 싶은 포켓몬입니다. 다름이 아니라 ![따라큐](https://static.wikia.nocookie.net/pokemon/images/b/b4/778%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20161125134544&path-prefix=ko)의 Z기술 2종을 전부 반감 이하로 받아낼 수 있기 때문.  
 
-9세대 기준으로는 매우 나쁜 종족값 배분이지만, 우리 레귤레이션에서 특수공격 129 스피드 126은 특성을 잘 받으면 충분히 쓸 수 있는 수준입니다.  
+9세대 기준으로는 매우 나쁜 종족값 배분이지만, 우리 레귤레이션에서 특수공격 129 스피드 126은 특성을 잘 받으면 쓸 만 합니다.  
 디폴트 세팅인 가뭄은 같은 불꽃 특수 대면 어태커인 ![와자몽](https://static.wikia.nocookie.net/pokemon/images/1/15/006my%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112439&path-prefix=ko)와 직접 비교가 되어서 조금 곤란하지만요.  
 
 랭업기가 전혀 없기 때문에 ![와자몽](https://static.wikia.nocookie.net/pokemon/images/1/15/006my%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112439&path-prefix=ko)과 마찬가지로 완전 대면 어태커로 써야할 것 같은데.
