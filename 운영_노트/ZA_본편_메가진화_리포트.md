@@ -60,7 +60,6 @@ H 풀보정하면 양내구가 5만이 넘어가서 눌러앉아서 벌크업을
 
 특히 쓱쓱 받은 ![메짱이](https://static.wikia.nocookie.net/pokemon/images/c/c7/260m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112702&path-prefix=ko)의 폭포오르기가 결정력 39000인데 이게 풀리면 좀 너무할 것 같아요.  
 애초에 하자 없는 스핏 120족은 아직 저희 레귤레이션의 스피드 인플레가 도달하지 못한 영역이구요.  
-최상위권 스피드에 일관성과 결정력이 좋고 화상 대비가 되며 벌크업까지 있어서 메가보만다의 재림이 되지 않도록 조심해야 합니다.  
 
 ### 메가망나뇽
 ![메가망나뇽](https://static.wikia.nocookie.net/pokemon/images/c/c1/0149MDragonite.png/revision/latest/scale-to-width-down/256?cb=20260114043537)  
