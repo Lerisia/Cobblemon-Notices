@@ -342,7 +342,7 @@ H252를 준 물리내구는 9.2만, 특수내구도 6만이나 됩니다.
 
 이런 극단적으로 높은 스피드는, ![오야붕](https://static.wikia.nocookie.net/pokemon/images/7/7d/015m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112441&path-prefix=ko)이나 ![메무킹](https://static.wikia.nocookie.net/pokemon/images/6/69/254m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112659&path-prefix=ko)처럼 명확한 한계점을 가진 포켓몬에게만 주도록 합니다.  
 
-### 
+### 메가화염레오
 ![메가화염레오](https://static.wikia.nocookie.net/pokemon/images/6/63/0668MPyroar.png/revision/latest/scale-to-width-down/256?cb=20260113190206)  
 
 |이름  | 타입      | HP | 공격 | 방어 | 특수공격 | 특수방어 | 스피드 | 합계 |
