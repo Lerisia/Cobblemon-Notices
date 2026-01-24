@@ -335,4 +335,34 @@ H252를 준 물리내구는 9.2만, 특수내구도 6만이나 됩니다.
 - **변화기**: 대타출동, 나쁜음모, 도발 등
 - **위험도**: ◆◆◆◆◇
 
-에휴...
+142는 너무나 위험한 스피드입니다. 아무리 30을 공격에 내다 버렸다고 해도 말이죠.  
+원본도 특수공격이 103밖에 안 되는 데에도 높은 스피드와 변환자재 특성에 힘입어 한 세대를 풍미했던 포켓몬입니다.  
+그런 포켓몬이 선공권을 보장받는 스피드와 낮지 않은 특수공격까지 얻었으면 더 할 말이 없죠.  
+조금만 공격적인 특성을 받아도 막아낼 수 없게 될 가능성이 높습니다.  
+
+이런 극단적으로 높은 스피드는, ![오야붕](https://static.wikia.nocookie.net/pokemon/images/7/7d/015m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112441&path-prefix=ko)이나 ![메무킹](https://static.wikia.nocookie.net/pokemon/images/6/69/254m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112659&path-prefix=ko)처럼 명확한 한계점을 가진 포켓몬에게만 주도록 합니다.  
+
+### 
+![메가화염레오](https://static.wikia.nocookie.net/pokemon/images/6/63/0668MPyroar.png/revision/latest/scale-to-width-down/256?cb=20260113190206)  
+
+|이름  | 타입      | HP | 공격 | 방어 | 특수공격 | 특수방어 | 스피드 | 합계 |
+|------|-----------|----|------|------|----------|----------|--------|------|
+| 화염레오 | 불꽃, 노말 | 86 | 68 | 72 | 109 | 66 | 106 | 507 |
+| 메가화염레오 | 불꽃, 노말 | 86 | 88 | 92 | 129 | 86 | 126 | 607 |
+
+- **디폴트 특성**: 가뭄
+- **특수기**: **오버히트, 불대문자, 화염방사, 하이퍼보이스**, 대지의힘, 악의파동
+- **변화기**: 대타출동, 하품, 도깨비불, 도발
+- **위험도**: ◆◆◆◇◇
+
+잘 좀 써보고 싶은 포켓몬입니다. 다름이 아니라 ![따라큐](https://static.wikia.nocookie.net/pokemon/images/b/b4/778%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20161125134544&path-prefix=ko)의 Z기술 2종을 전부 반감 이하로 받아낼 수 있기 때문.  
+
+9세대 기준으로는 매우 나쁜 종족값 배분이지만, 우리 레귤레이션에서 특수공격 129 스피드 126은 특성을 잘 받으면 충분히 쓸 수 있는 수준입니다.  
+디폴트 세팅인 가뭄은 같은 불꽃 특수 대면 어태커인 ![와자몽](https://static.wikia.nocookie.net/pokemon/images/1/15/006my%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112439&path-prefix=ko)와 직접 비교가 되어서 조금 곤란하지만요.  
+
+랭업기가 전혀 없기 때문에 ![와자몽](https://static.wikia.nocookie.net/pokemon/images/1/15/006my%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112439&path-prefix=ko)과 마찬가지로 완전 대면 어태커로 써야할 것 같은데.
+126이라는 스피드는 자칫 너무 버프해줬다가는 밸런스가 위험할 것 같아서 확 밀어주기도 어렵습니다.  
+
+단순히 속도 빠른 ![와자몽](https://static.wikia.nocookie.net/pokemon/images/1/15/006my%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112439&path-prefix=ko)이 아닌 역할 차별화가 가능할지도 의문이구요.  
+여러 모로 생각할 거리가 많은 포켓몬입니다.  
+
