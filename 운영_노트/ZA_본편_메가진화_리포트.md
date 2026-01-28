@@ -165,7 +165,7 @@
 
 | 후보 | 설명 |
 |-----|-----|
-| 단단한발톱 | 도감 설명에 발톱 언급이 제대로 있습니다. <br> ![메메타](https://static.wikia.nocookie.net/pokemon/images/1/1a/376m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112822&path-prefix=ko)랑 특성, 종족값, 타입 등 여러 면에서 겹치는 건 아쉽지만요. 솔직히 이 친구가 금지가 풀릴 날이 올지도 잘 모르겠습니다. <br> ![메메타](https://static.wikia.nocookie.net/pokemon/images/1/1a/376m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112822&path-prefix=ko)는 타점이 나쁜데도 1티어인데 이 친구는 무려 일관성이 개쩌는 브레이브버드가 주력기입니다. <br> 원본도 막이 1티어에 형태가 다양해서 상대 입장에선 곤란한 n지선다까지.  |
+| 단단한발톱 | 도감 설명에 발톱 언급이 제대로 있습니다. <br> ![메메타](https://static.wikia.nocookie.net/pokemon/images/1/1a/376m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112822&path-prefix=ko)랑 여러 면에서 겹치는 건 아쉽지만, 풀릴 때쯤엔 신경 안 써도 될 만큼 인플레가 와있을 듯? <br> ![메메타](https://static.wikia.nocookie.net/pokemon/images/1/1a/376m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112822&path-prefix=ko)는 타점이 나쁜데도 1티어인데 이 친구는 무려 일관성이 개쩌는 브레이브버드가 주력기입니다. <br> 원본도 막이 1티어에 형태가 다양해서 상대 입장에선 곤란한 n지선다까지.  |
 
 ### 메가눈여아
 ![메가눈여아](https://static.wikia.nocookie.net/pokemon/images/7/7d/0478MFroslass.png/revision/latest/scale-to-width-down/256?cb=20260114043921)  
