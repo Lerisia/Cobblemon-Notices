@@ -141,8 +141,9 @@
 어떤 특성이 독특한 외형과 어울리면서 실효성도 있을까요?  
 약점이 두 개 뿐인 타입에 용의춤과 칼춤을 둘 다 배우기 때문에 이 쪽으로 생각해보는 것도 좋을 것 같네요.  
 
-**결론**: 용의턱  
-**사유**: 턱 관련 특성을 주고 싶었으나 자속 물기 기술을 하나도 배우지 않아 옹골찬턱은 애매. 메가샤크니아랑 겹치기도 하고. 마침 드래곤 타입도 받았겠다 용의턱 좋을 것 같습니다.
+| 후보 | 설명 |
+|-----|-----|
+| 용의턱 | 턱 관련 특성을 주고 싶었으나 자속 물기 기술을 하나도 배우지 않아 옹골찬턱은 애매. <br> 마침 드래곤 타입도 받았겠다 용의턱 좋을 것 같습니다. |
 
 ### 메가무장조
 ![메가무장조](https://static.wikia.nocookie.net/pokemon/images/0/0d/0227MSkarmory.png/revision/latest/scale-to-width-down/256?cb=20260114043906)  
@@ -162,8 +163,9 @@
 ![메메타](https://static.wikia.nocookie.net/pokemon/images/1/1a/376m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112822&path-prefix=ko)랑 동속인 주제에 위력 120의 브레이브버드도 배우고 칼춤도 배웁니다.  
 견제폭도 엄청 넓지는 않지만 가질 건 다 가졌어요.  
 
-**결론**: 단단한발톱  
-**사유**: 도감 설명에 발톱에 대한 설명이 제대로 있습니다. ![메메타](https://static.wikia.nocookie.net/pokemon/images/1/1a/376m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112822&path-prefix=ko)랑 특성, 종족값, 타입 등 여러 면에서 겹치는 건 아쉽지만요. 솔직히 이 친구가 금지가 풀릴 날이 올지도 잘 모르겠습니다. ![메메타](https://static.wikia.nocookie.net/pokemon/images/1/1a/376m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112822&path-prefix=ko)는 타점이 나쁜데도 1티어인데 이 친구는 무려 일관성이 개쩌는 브레이브버드가 주력기입니다. 원본도 막이 1티어에 형태가 다양해서 상대 입장에선 곤란한 n지선다까지.  
+| 후보 | 설명 |
+|-----|-----|
+| 단단한발톱 | 도감 설명에 발톱 언급이 제대로 있습니다. <br> ![메메타](https://static.wikia.nocookie.net/pokemon/images/1/1a/376m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112822&path-prefix=ko)랑 특성, 종족값, 타입 등 여러 면에서 겹치는 건 아쉽지만요. 솔직히 이 친구가 금지가 풀릴 날이 올지도 잘 모르겠습니다. <br> ![메메타](https://static.wikia.nocookie.net/pokemon/images/1/1a/376m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112822&path-prefix=ko)는 타점이 나쁜데도 1티어인데 이 친구는 무려 일관성이 개쩌는 브레이브버드가 주력기입니다. <br> 원본도 막이 1티어에 형태가 다양해서 상대 입장에선 곤란한 n지선다까지.  |
 
 ### 메가눈여아
 ![메가눈여아](https://static.wikia.nocookie.net/pokemon/images/7/7d/0478MFroslass.png/revision/latest/scale-to-width-down/256?cb=20260114043921)  
