@@ -155,7 +155,7 @@
 견제폭도 엄청 넓지는 않지만 가질 건 다 가졌어요.  
 
 **결론**: 단단한발톱  
-**사유**: 도감 설명에 발톱에 대한 설명이 제대로 있습니다. ![메메타](https://static.wikia.nocookie.net/pokemon/images/1/1a/376m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112822&path-prefix=ko)랑 특성, 종족값, 타입 등 여러 면에서 겹치는 건 아쉽지만요. 솔직히 이 친구가 금지가 풀릴 날이 올지도 잘 모르겠습니다. ![메메타](https://static.wikia.nocookie.net/pokemon/images/1/1a/376m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112822&path-prefix=ko)는 타점이 나쁜데도 1티어인데 이 친구는 무려 일관성이 개쩌는 브렏이브버드가 주력기입니다. 심지어 메가진화를 안 쓰는 막이형도 강해서 상대 입장에선 곤란한 이지선다까지.  
+**사유**: 도감 설명에 발톱에 대한 설명이 제대로 있습니다. ![메메타](https://static.wikia.nocookie.net/pokemon/images/1/1a/376m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112822&path-prefix=ko)랑 특성, 종족값, 타입 등 여러 면에서 겹치는 건 아쉽지만요. 솔직히 이 친구가 금지가 풀릴 날이 올지도 잘 모르겠습니다. ![메메타](https://static.wikia.nocookie.net/pokemon/images/1/1a/376m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112822&path-prefix=ko)는 타점이 나쁜데도 1티어인데 이 친구는 무려 일관성이 개쩌는 브레이브버드가 주력기입니다. 원본도 막이 1티어에 형태가 다양해서 상대 입장에선 곤란한 n지선다까지.  
 
 ### 메가눈여아
 ![메가눈여아](https://static.wikia.nocookie.net/pokemon/images/7/7d/0478MFroslass.png/revision/latest/scale-to-width-down/256?cb=20260114043921)  
@@ -174,7 +174,8 @@
 배우는 변화기 폭도 그럭저럭 비슷하고, 심지어 스피드와 특수공격 둘 다 ![메가팬텀](https://static.wikia.nocookie.net/pokemon/images/4/49/094m%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112447&path-prefix=ko)이 더 높아요.  
 그래서 이 친구에게는 그밟 길동무와는 조금 다른 역할을 주고 싶습니다.  
 
-**결론**: 
+**결론**: 눈퍼뜨리기?  
+**사유**: 원래는 프리즈스킨을 주고 싶었지만 하이퍼보이스를 안 배웁니다. 눈퍼뜨리기 요원들이 심하게 나사가 빠진 탓에 눈퍼뜨리기를 주는 것도 괜찮을 것 같아요. 오로라베일도 깔고, 전기자석파 도깨비불 등으로 짜증나게 굴다가 저주 길동무로 깔끔하게 빠져줄 수도 있구요. 메가진화가 교체보다 나중에 발동하다보니 하마돈 교체 정도로는 메가눈여아의 오로라베일을 막을 수가 없습니다. 근데 정작 날씨 관련 도구를 들 수 없는 탓에 날씨 턴이 너무 짧은 거 같기도...
 
 ### 메가염무왕
 ![메가염무왕](https://static.wikia.nocookie.net/pokemon/images/c/ce/0500MEmboar.png/revision/latest/scale-to-width-down/256?cb=20260114044218)  
@@ -185,7 +186,7 @@
 | 메가염무왕 | 불꽃, 격투 | 110 | 148 | 75 | 110 | 110 | 75 | 628 |
 
 - **디폴트 특성**: 총대장
-- **물리기**: **플레어드라이브, 니트로차지, 인파이트, 엄청난힘**, 탁셔처떨구기, 기습, 아이언헤드, 와일드볼트, 지진, 스톤에지, 독찌르기, 사념의박치기 등
+- **물리기**: **플레어드라이브, 니트로차지, 인파이트, 엄청난힘, 드레인펀치**, 탁셔처떨구기, 기습, 아이언헤드, 와일드볼트, 지진, 스톤에지, 독찌르기, 사념의박치기 등
 - **변화기**: 벌크업, 도발, 도깨비불
 - **위험도**: ◆◆◇◇◇
 
@@ -193,7 +194,8 @@
 그래도 내구가 괜찮고 자속기가 고위력기이며 견제폭도 넓고 기습도 배우는 등 나쁘지 않은 포인트가 많습니다.  
 특성을 아주 좋게 주면 고내구 저속 어태커로 활약할 수 있을 것 같아요.  
 
-다만 환경에 불꽃 타입을 더 늘릴 필요가 있을까요?
+**결론**: 이판사판  
+**사유**: 원본 특성인 이판사판이 플레어드라이브, 와일드볼트, 양날박치기 등 염무왕의 기술폭과 잘 어울려서 괜찮을 것 같습니다. 벌크업 드펀 형태로 쓰더라도 나머지 두 기술을 플레어드라이브랑 와일드볼트로 채우면 충분히 제 몫을 할 것 같아요. 
 
 ### 메가몰드류
 ![메가몰드류](https://static.wikia.nocookie.net/pokemon/images/6/6a/0530MExcadrill.png/revision/latest/scale-to-width-down/256?cb=20260114044233)  
@@ -211,6 +213,9 @@
 원본도 이미 우수한 성능을 내고 있기에, 굳이 메가몰드류가 틀깨기 특성을 공유할 필요는 없어보여요.  
 오히려 ![따라큐](https://static.wikia.nocookie.net/pokemon/images/b/b4/778%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20161125134544&path-prefix=ko)나 ![와자몽](https://static.wikia.nocookie.net/pokemon/images/1/15/006my%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20200213112439&path-prefix=ko)의 카운터로는 기띠나 스카프를 쓴 원종의 신뢰도가 더 높습니다.  
 모래바람 관련 특성을 주어 ![파치래곤](https://static.wikia.nocookie.net/pokemon/images/d/d8/880%EC%83%88%EB%B0%95%EC%8A%A4%EC%95%84%EC%9D%B4%EC%BD%98.png/revision/latest?cb=20191114204623&path-prefix=ko) 대신 모래팟 에이스로 활약하도록 하는 편이 좋아 보입니다.  
+
+**결론**: 모래헤치기  
+**사유**: 모래헤치기와 모래의힘중에 고민했습니다. 주력기에 땅, 강철, 바위가 다 있어서 모래의힘을 가장 잘 받을 수 있는 포켓몬이라고 생각했거든요. 근데 원본이 모래헤치기인데 메가진화했던 모래의힘으로 바뀌며 오히려 느려지는 건 심히 어색해서 모래헤치기로 결정했습니다. 메가진화 전의 틀깨기와 메가진화 후의 모래헤치기로 상대를 교란시키는 것도 좋은 전략이 될 것 같습니다. 모래팟은 세터가 그 하마돈, 마기라스라서 너무 강해지지 않게 주의합시다.  
 
 ### 메가펜드라
 ![메가펜드라](https://static.wikia.nocookie.net/pokemon/images/0/0f/0545MScolipede.png/revision/latest/scale-to-width-down/256?cb=20260114044330)  
@@ -235,6 +240,9 @@
 
 이런 류의 포켓몬은 잘못 버프하면 알고도 못 막는 해악질이 될 수도 있기 때문에 섬세하게 조정할 필요가 있습니다.  
 
+**결론**: 색안경  
+**사유**: 메가펜드라는 우수한 포켓몬이나 여러 가지 결점이 있습니다. 후내밀기하면 매우 아파서 선봉에 세워야 한다는 점, 메가진화하면 매우 느려지는 탓에 가속 턴끌기가 강요된다는 점, 그리고 벌레 독 모두 타점이 좋지 않다는 것, 낮은 명중률 등. 그래서 이 중 하나라도 보완하려고 색안경과 복안 중에 고민을 했는데요, 이 친구가 복안처럼 생기진 않아서 색안경으로 결정했습니다.  
+
 ### 메가곤율거니
 ![메가곤율거니](https://static.wikia.nocookie.net/pokemon/images/7/77/0560MScrafty.png/revision/latest/scale-to-width-down/256?cb=20260114044342)  
 
@@ -256,6 +264,9 @@
 눌러앉아서 용의춤이나 벌크업을 쌓는 딜탱으로 설계된 것 같습니다.  
 다만 악 타입인데 기습을 안 배우는 점은 많이 아쉽네요.  
 
+**결론**: 위협  
+**사유**: 메가진화 전 특성도 위협이라 더블 위협으로 물리 어태커를 무력화할 수도 있고, 메가진화한 후에도 위협 사이클을 돌릴 수 있다는 장점도 있습니다. 심지어 막말내뱉기도 배우거든요. 상당히 강할지도?
+
 ### 메가저리더프
 ![메가저리더프](https://static.wikia.nocookie.net/pokemon/images/6/65/0604MEelektross.png/revision/latest/scale-to-width-down/256?cb=20260114044423)  
 
@@ -275,6 +286,9 @@
 
 그래서인가 모드에서는 꽤 파격적인 특성을 주었더라구요.  
 그래도 셀지 잘 모르겠고... 안 세면 어떻게 살려야 할지도 잘 모르겠고...
+
+**결론**: 그대로 냅둔다  
+**사유**: 뭐 딱히 할 말이 없네요...
 
 ### 메가샹델라
 ![메가샹델라](https://static.wikia.nocookie.net/pokemon/images/8/85/0609MChandelure.png/revision/latest/scale-to-width-down/256?cb=20260114044752)  
